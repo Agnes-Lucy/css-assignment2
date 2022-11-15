@@ -1,0 +1,32 @@
+.all{
+    background-color: white;
+}
+h1, h2, h3 {
+    font-size: 18px;
+}
+
+#first {
+    color: green;
+    font-size: 14px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+    
+}
+#second {
+    color: red;
+    font-size: 14px;
+    margin: 2px 30px;
+    padding: 10px ;
+    border: 2px solid blueviolet ;
+    border-radius: 8px;
+}
+#third {
+    color: blue;
+    font-size: 14px;
+    margin: 20px 40px;
+    padding: 5px;
+    border: 2px solid orangered;
+    border-radius: 8px;
+}
